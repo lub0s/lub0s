@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-[![HitCount](http://hits.dwyl.com/lupajz/lupajz.svg)](http://hits.dwyl.com/lupajz/lupajz)
+[![Lupajz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lupajz)](https://github.com/lupajz)
+
